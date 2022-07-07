@@ -18,6 +18,9 @@ struct Node{
         return falg;
     }
 };
+
+//Trie class
+
 class Trie {
 private:
     Node* root;
